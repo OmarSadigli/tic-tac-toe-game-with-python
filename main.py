@@ -1,5 +1,3 @@
-from turtle import clear
-
 from art import logo
 
 print(logo)
